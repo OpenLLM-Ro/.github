@@ -1,5 +1,3 @@
-## Organization Card
-
 The goal of the OpenLLM-Ro is to bring together the Romanian community that builds open Romanian models and to collect these models in a single place.
 
 We value:

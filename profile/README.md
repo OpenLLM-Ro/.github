@@ -11,8 +11,10 @@ In this organization, you can find RoLLM models, based on different underlying m
 
 - RoLlama2: Romanian models based on Llama2
 - RoMistral: Romanian models based on Mistral
+- RoGemma: Romanian models based on Gemma
+- RoLlama3: Romanian models based on Llama3
 
-See details in https://arxiv.org/abs/2405.07703.
+See details in [https://arxiv.org/abs/2405.07703](https://arxiv.org/abs/2406.18266).
 
 We encourage the community to engage in discussions (to provide feedback, ask questions, or make improvement suggestions) in Hugging Face or GitHub.
 
